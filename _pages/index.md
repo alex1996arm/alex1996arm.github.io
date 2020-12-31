@@ -6,6 +6,6 @@ title: "About"
 
 
 
-Hello, I am Alexandre Roberge-Milanese and I am an aspiring Software Engineer well versed in a variety of programming languages and development styles.
+Hello,  I am an aspiring Software Engineer well versed in a variety of programming languages and development styles.
 
 I am passionate about finding novel ways of solving problems.

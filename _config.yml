@@ -68,6 +68,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Aspiring Software Engineer"
   links:
+    - label: " Oakville, Ontario"
+      icon: "fas fa-map-marker-alt"
+      url: "https://github.com/alex1996arm"
+    - label: "Resume"
+      icon: "fas fa-poll-h"
+      url: "https://github.com/alex1996arm"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://github.com/alex1996arm"
