@@ -68,12 +68,17 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Aspiring Software Engineer"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://github.com/alex1996arm"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alex1996arm"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+
+
 
 footer:
   links:
