@@ -9,8 +9,9 @@ title: "Experience"
 +   Worked towards a platform independent telehealth system by designing and implementing Firebase login, permission management, and storing video metadata(Cloud Firestore) in Android.
 +   Implemented Video recording and file management using Android Camera API and MediaStore.
 
+---
 
 ### Webmoti - Software Developer/Research Assistant
-
+For the academic paper I co-authored, take a look at **[Research](/research)**.
 +   Spearheaded development of a WebRTC based video telepresence backend directly leveraging the Javascript API. Implemented the WebRTC signaling server using Cloud Firestore.
 +   Studied accessible design principles and worked with a diverse team of users, academics and developers to create a responsive interface designed to reduce cognitive load for neurodiverse users.
