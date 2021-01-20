@@ -76,7 +76,7 @@ author:
       url: "/assets/Resume-Alexandre-Roberge-Milanese.pdf"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/arobergemilanese"
+      url: "https://linkedin.com/in/arobergemilanese"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alex1996arm"
